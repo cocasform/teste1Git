@@ -16,6 +16,8 @@
             Console.WriteLine("esta é a linha de codigo da branch testes");
             Console.WriteLine("esta é a segunda linha de codigo");
 
+            Console.WriteLine("FUNÇAO");
+
         }
     }
 }
